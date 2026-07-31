@@ -14,7 +14,7 @@ You will now clone the lab repository — it contains both these instructions an
 Open a PowerShell terminal in a working directory of your choice and run:
 
 ```powershell
-git clone https://github.com/jamesrcounts/contoso-books.git
+git clone https://github.com/solliancenet/contoso-books.git
 ```
 
 > This is the same repository the lab site is published from. The sample application lives under `src/`, organized as three workspaces: `src/server/` (Express + MongoDB driver), `src/client/` (React UI), and `src/deployment/seed/` (data seeding scripts used in Task 04).

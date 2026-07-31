@@ -7,13 +7,13 @@ theme: just-the-docs
 
 # Generated site lives under https://<org>.github.io/<repo>/. Override `url`
 # and `baseurl` to match your GitHub Pages settings before publishing.
-url: "https://jamesrcounts.github.io"
+url: "https://solliancenet.github.io"
 baseurl: "/contoso-books"
 
 # Header links shown in the top-right of every page.
 aux_links:
   "View on GitHub":
-    - "https://github.com/jamesrcounts/contoso-books"
+    - "https://github.com/solliancenet/contoso-books"
 aux_links_new_tab: true
 
 # Show the "next / previous" navigation between tasks.
